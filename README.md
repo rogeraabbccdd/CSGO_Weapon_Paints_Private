@@ -16,6 +16,8 @@ For example, English is "csgo_wpaints_english.cfg", Russian is "csgo_wpaints_Rus
 ## To Do
 Add new skins
 
+You can find skin ID in csgo/scripts/itemsitems_game.txt
+
 ## Credits
 * [Franc1sco franug](https://github.com/Franc1sco) - Original Author
 * xCoderx - Thanks for his leak
