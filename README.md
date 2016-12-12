@@ -4,7 +4,9 @@ Leaked by xCoderx(https://forums.alliedmods.net/showthread.php?t=286016)
 This repo is based on xCoderx's leaked sp file, and I'm trying to make it work in game.
 
 ## How To Use
-Put files into your server
+Put files into your server.
+
+Go to "addons/sourcemod/configs/core.cfg", change "FollowCSGOServerGuidelines" to "no".
 
 ## How To Add Different Language Skin Name 
 You can find skin ID in "csgo/scripts/itemsitems_game.txt"
