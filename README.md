@@ -17,10 +17,6 @@ And name your weapon paints cfg to "csgo_wpaints_yoursourcemodlanguagename".
 
 For example, English is "csgo_wpaints_english.cfg", Russian is "csgo_wpaints_Russian.cfg"
 
-## To Do
-Add new skins, "The Gamma Collection", "The Gamma 2 Collection" and "The Glove Collection"
-
-
 ## Credits
 * [Franc1sco franug](https://github.com/Franc1sco) - Original Author
 * xCoderx - Thanks for his leak
