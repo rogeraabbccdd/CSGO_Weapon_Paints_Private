@@ -15,3 +15,7 @@ For example, English is "csgo_wpaints_english.cfg", Russian is "csgo_wpaints_Rus
 
 ## To Do
 Add new skins
+
+## Credits
+* [Franc1sco franug](https://github.com/Franc1sco) - Original Author
+* xCoderx - Thanks for his leak
