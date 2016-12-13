@@ -22,3 +22,6 @@ For example, English is "csgo_wpaints_english.cfg", Russian is "csgo_wpaints_Rus
 ## Credits
 * [Franc1sco franug](https://github.com/Franc1sco) - Original Author
 * xCoderx - Thanks for his leak
+
+##Donate
+If you apreciate my work, you can donate me via [steam trade offer](https://steamcommunity.com/tradeoffer/new/?partner=52559891&token=ADe-707J)
