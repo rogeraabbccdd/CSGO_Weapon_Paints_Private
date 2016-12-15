@@ -8,7 +8,7 @@ Put files into your server.
 
 Go to "addons/sourcemod/configs/core.cfg", change "FollowCSGOServerGuidelines" to "no".
 
-## How To Add Different Language Skin Name 
+## How To Add Skins
 You can find skin ID in "csgo/scripts/itemsitems_game.txt"
 
 You can find skin name in "csgo/resource/csgo_xxx.txt"
@@ -18,6 +18,8 @@ You can find sourcemod languages name in "configs/languages.cfg"
 And name your weapon paints cfg to "csgo_wpaints_yoursourcemodlanguagename".
 
 For example, English is "csgo_wpaints_english.cfg", Russian is "csgo_wpaints_Russian.cfg"
+
+Or you can use [adamb70's CSGO skin ID dumper](https://github.com/adamb70/CSGO-skin-ID-dumper) to get skin ID and skin name.
 
 ## Credits
 * [Franc1sco franug](https://github.com/Franc1sco) - Original Author
