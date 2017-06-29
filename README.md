@@ -3,6 +3,8 @@ Leaked by xCoderx(https://forums.alliedmods.net/showthread.php?t=286016)
 
 This repo is based on xCoderx's leaked sp file, and I'm trying to make it work in game.
 
+LEAKED 6.X NEW VERSION! --> https://github.com/b3none/private-ws  
+
 ## How To Use
 Put files into your server.
 
