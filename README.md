@@ -5,6 +5,8 @@ This repo is based on xCoderx's leaked sp file, and I'm trying to make it work i
 
 LEAKED 6.X NEW VERSION! --> https://github.com/b3none/private-ws  
 
+LEAKED LATEST VERSION!  --> https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins
+
 ## How To Use
 Put files into your server.
 
